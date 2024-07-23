@@ -1,11 +1,11 @@
-## Book Genre Classification
+## Book Genre Classification (On going)
 
 **To-do List:** 
 - [ ] Data analysis
-  - [x] General statistics
-  - [ ] Emotion analysis for title and summary
+  - [x] General statistics (12.07.2024)
+  - [x] Emotion analysis for title (23.07.2024)
   - [ ] Topic modeling for summary
-- [x] Evaluation methods (from scratch)
+- [x] Evaluation methods (from scratch) (12.07.2024)
 - [ ] Naive Bayes Model
   - [ ] Naive Bayes I (from scratch)
     - [ ] setting 1: predict from title
@@ -20,10 +20,11 @@
   
 
 ==================
-- [Book Genre Classification](#book-genre-classification)
+- [Book Genre Classification (On going)](#book-genre-classification-on-going)
   - [Introduction](#introduction)
   - [Dataset](#dataset)
   - [Models](#models)
+  - [Additional Features](#additional-features)
 
 ### Introduction
 
@@ -44,3 +45,6 @@ Predicting book genre (fantasy, thriller, science, history, horror, crime, roman
 1. Naive Bayes from scratch
 2. Naive Bayes from scikit
 3. Neural Network
+
+### Additional Features
+1. [Emotion classifier from text](https://huggingface.co/michellejieli/emotion_text_classifier)
